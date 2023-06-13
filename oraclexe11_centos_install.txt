@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=0wb1ZSeOZ18
+yum install glibc
+yum install binutils
+yum install gcc
+yum install make
+yum install libaio
+
+rpm -ivh oracle-xe-11.2.0-1.0.x86_64.rpm
+/etc/init.d/oracle-xe configure
+
+sys/sysdba is victory
+
